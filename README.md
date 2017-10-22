@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 21, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Steven Centeno)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I wrote the code and equations for a tax calculator and applied it to an HTML page.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://centenole.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to incorporate complex equations in JavaScript to create a web application.)
+2. (I learned how to edit large amounts of repeated information quickly.)
+3. (I learned how to create a program that can calculate my taxes for me, without going through the trouble of finding the correct rates for my bracket. All I have to do is enter my taxable income.)
 
